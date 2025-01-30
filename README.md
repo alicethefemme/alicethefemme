@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Alice Joynson-Ellis, and I am a student studying Maths, Further Maths and Computer Science at A-Level! I am 17 and a hobbyist developer.
+[Send me an email!](mailto:alicethefemme@atfdev.co.uk)
+
 <!--
 **alicethefemme/alicethefemme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
