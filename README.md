@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Alice Joynson-Ellis, and I am a student studying Maths, Further Maths and Computer Science at A-Level! I am 17 and a hobbyist developer.
+My name is Alice Joynson-Ellis, and I am a student studying Maths, Further Maths and Computer Science at A-Level! I am also a hobbyist developer!
 [Send me an email!](mailto:alicethefemme@atfdev.co.uk)
 
 <!--
